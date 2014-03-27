@@ -42,7 +42,7 @@ dodać sporo sensownych przykładowych rekordów
 1. [Labuda, Damian](https://github.com/kaka2991/my_gists). [#1](http://damlab.herokuapp.com).
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/RubyGist). [#1](http://mojegisty.herokuapp.com).
 1. [Leśniak, Michał](https://github.com/mlesniak91/my_notes). [#2](http://mlesniak.herokuapp.com/notes).
-1. Leyk, Szymon.
+1. [Leyk, Szymon](https://github.com/leyas/rails).
 1. [Lipowski, Michał](https://github.com/lipek92/my_gists). [#1](http://mygistsmlipowski.herokuapp.com).
 1. Litke, Sabina.
 1. [Ławicki, Patryk](https://github.com/true-or-false/myBinaries). [#1](http://mybeanaries.herokuapp.com).
