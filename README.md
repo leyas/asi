@@ -68,6 +68,7 @@ Indywidualiści:
 1. Labuda, Damian.
 1. Lamkiewicz, Krzysztof.
 1. Leśniak, Michał.
+2. [Leyk, Szymon](https://github.com/leyas/rails-exam)
 1. Lipowski, Michał.
 1. Litke, Sabina.
 1. Maciejewski, Michał.
